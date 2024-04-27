@@ -1,0 +1,11 @@
+.app {
+  width: 960px;
+  text-align: center;
+  margin: 0 auto;
+  min-height: 100vh;
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
